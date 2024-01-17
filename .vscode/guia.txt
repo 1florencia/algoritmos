@@ -1,0 +1,4 @@
+git status -> Veo el estado del archivo
+git add -> agrego archivos (con "add ."  agrego todos los archivos)
+git commit -m 'agrego comentario'
+git push
